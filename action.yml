@@ -8,7 +8,7 @@ inputs:
 
 outputs:
   answer: # id of output
-    description: 'The answer to everything (always 42'
+    description: 'The answer to everything (always 42)'
 
 runs:
   using: docker
